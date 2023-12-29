@@ -9,7 +9,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 public class Review {
-	
+	   
 	
 	private Long id;
 	private String restaurantName;
